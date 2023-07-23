@@ -1,0 +1,12 @@
+{
+	"accessoriesCategory": ".js-sidebar-tree-url.sidebar-tree-item[href='/accesorii-tv/c?ref=search_menu_category']",
+	"accessoriesPage": ".title-phrasing.title-phrasing-xl",
+	"brandName": ".js-filter-item.filter-item[href='https://www.emag.ro/accesorii-tv/brand/samsung/c?ref=lst_leftbar_6415_42']",
+	"starRating": ".js-filter-item.filter-item[href='https://www.emag.ro/accesorii-tv/brand/samsung/rating,star-3/c?ref=lst_leftbar_6419_3-5']",
+	"orderList": ":nth-child(2) > .sort-control-btn-dropdown > .btn",
+	"asscendingPrice": ".js-sort-option[href='/accesorii-tv/brand/samsung/rating,star-3/sort-priceasc/c']",
+	"addToCartButton": ".btn.btn-sm.btn-primary.btn-emag.btn-block.yeahIWantThisProduct[data-pnk='DWYWRNMBM']",
+	"validateProductWasAdded": "h4[class='mrg-sep-none']",
+	"checkProductName": "span[class='small']",
+	"closeCartWindow": "body > div.ph-modal.modal.fade.product-purchased-modal.modal-version-.in > div > div > div.modal-header > button"
+}

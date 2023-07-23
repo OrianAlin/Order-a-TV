@@ -1,19 +1,19 @@
 {
-  "name": "order",
-  "version": "1.0.0",
-  "description": "We will try to order a TV and his accessory",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [
-    "Automation",
-    "Cypress",
-    "Javascript"
-  ],
-  "author": "Alin Orian",
-  "license": "ISC",
-  "dependencies": {
-    "cypress": "^9.7.0"
-  }
+	"name": "order",
+	"version": "1.0.0",
+	"description": "We will try to order a TV and his accessory",
+	"main": "index.js",
+	"scripts": {
+		"cy:open": "cypress open"
+	},
+	"keywords": [
+		"Automation",
+		"Cypress",
+		"Javascript"
+	],
+	"author": "Alin Orian",
+	"license": "ISC",
+	"dependencies": {
+		"cypress": "^9.7.0"
+	}
 }

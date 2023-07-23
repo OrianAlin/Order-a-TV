@@ -1,0 +1,10 @@
+{
+	"inStock": ".js-filter-item.filter-item[href='https://www.emag.ro/televizoare/stoc/c?ref=lst_leftbar_6407_stock']",
+	"displayTehnology": ".js-filter-item.filter-item[href='https://www.emag.ro/televizoare/filter/tehnologie-display-f8914,led-v-4670591/c?ref=lst_leftbar_8914_-4670591']",
+	"starRating": "#js-filter-6419-collapse > div > a:nth-child(3)",
+	"orderButton": "#main-container > section.page-section.page-listing-v2 > div > div.clearfix.pad-btm-md > div.page-container > div.listing-panel.has-floating-listing-panel-footer > div.listing-panel-footer.js-head-sort-options > div > div:nth-child(2) > div.sort-control-btn-dropdown.hidden-xs",
+	"descendingPrice": "#main-container > section.page-section.page-listing-v2 > div > div.clearfix.pad-btm-md > div.page-container > div.listing-panel.has-floating-listing-panel-footer > div.listing-panel-footer.js-head-sort-options > div > div:nth-child(2) > div.sort-control-btn-dropdown.hidden-xs > div > ul > li:nth-child(4) > a",
+	"addToCartButton": ".btn.btn-sm.btn-primary.btn-emag.btn-block.yeahIWantThisProduct[data-pnk='DX9VHVMBM']",
+	"checkProductWasAdded": ".modal-header",
+	"checkProductName": "div[class='row table-layout']"
+}
