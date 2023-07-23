@@ -1,0 +1,4 @@
+{
+	"productList": "div[class='megamenu-list-container'] li:nth-child(4) a:nth-child(1)",
+	"tvSection": ".megamenu-item[href='/televizoare/c?ref=hp_menu_quick-nav_190_1&type=category']"
+}
