@@ -4,6 +4,8 @@ export default class tvSection {
 	static filterTv() {
 		cy.get(tvSectionElements.inStock).click()
 		cy.wait(2000)
+		cy.get(tvSectionElements.displayTehnology).click()
+		cy.wait(2000)
 		cy.get(tvSectionElements.starRating).click()
 	}
 	static orderAfterPriceDescending() {

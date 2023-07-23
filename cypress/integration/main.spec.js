@@ -13,7 +13,7 @@ describe('Order a TV and an accessory for it', () => {
 		tvSection.orderAfterPriceDescending()
 		tvSection.addToCart()
 		accessories.goToAccessoriesSection()
-		accessories.filterTv()
+		accessories.filter()
 		accessories.orderAfterPriceAscending()
 		accessories.addToCart()
 	})

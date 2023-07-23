@@ -8,5 +8,11 @@
 	"addToCartButton": ".btn.btn-sm.btn-primary.btn-emag.btn-block.yeahIWantThisProduct[data-pnk='DWYWRNMBM']",
 	"validateProductWasAdded": "h4[class='mrg-sep-none']",
 	"checkProductName": "span[class='small']",
-	"closeCartWindow": "body > div.ph-modal.modal.fade.product-purchased-modal.modal-version-.in > div > div > div.modal-header > button"
+	"closeCartWindow": "body > div.ph-modal.modal.fade.product-purchased-modal.modal-version-.in > div > div > div.modal-header > button",
+	"clickTvAccesories": "div[class='col-sm-6 filter-item']",
+	"searchAccesories": "body > div.ph-widget.ph-popup.filter-more-rupture-categories.ph-visible.ph-popup-n.ph-popup-w.ph-popup-top.ph-visible-done > div > div.filter-head > div > div > input",
+	"moreCategoriesButton": "#main-container > section.page-section.page-listing-v2 > div > div.clearfix.pad-btm-md > div.menu-container > div.sidebar-container.sidebar-tree-container.relative.js-mobile-menu-tree-sidebar > div.sidebar-container-body > div > div.font-semi-bold.text-center.mrg-top-xs.pad-top-xs.more-categories-link-container.hidden-xs",
+	"clickBrandName": "#main-container > section:nth-child(4) > div > div.row.product-main-area.mrg-btm-xs > div.col-sm-7.col-md-4.col-lg-4.mrg-btm-xs.stuck-box-sm.gallery-wrapper > div.title-and-brand.hidden-xs > a",
+	"clickFirstTv": "#card_grid > div:nth-child(1) > div > div > div.card-v2-info > a > div > img",
+	"addAccesoryToCart": "#card_grid > div:nth-child(1) > div > div > div.card-v2-content > div.card-v2-atc.mrg-top-xxs > form > button"
 }
